@@ -1,1 +1,1 @@
-# Site fictíocio  da Unes Universidades. 
+# Site fictício  da Unes Universidades. 
